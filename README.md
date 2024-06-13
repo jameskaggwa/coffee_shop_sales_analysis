@@ -32,7 +32,7 @@ Sorted and filtered data to highlight the top 15 product types by the number of 
 pivot tables
 
 # Visualization and Dashboard Development
-![alt text](cover_bg_coffee_analysis.png) 
+![alt text](cover_bg_coffee_analysis_1.png) 
 Created Pivot Charts to visually represent revenue trends by month, transaction patterns by day and hour, and product category performance.
 
 Assembled the charts into a cohesive dashboard layout for easy interpretation.
